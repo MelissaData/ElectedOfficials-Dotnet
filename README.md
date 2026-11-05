@@ -54,8 +54,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadeveloperapis/dotnet/electedofficialscloudapi.git
-cd electedofficialscloudapi
+git clone https://github.com/MelissaData/ElectedOfficials-Dotnet
+cd ElectedOfficials-Dotnet
 ```
 
 ## Windows
